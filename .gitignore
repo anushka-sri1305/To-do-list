@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Build output
+dist
+build
+
+# Misc / OS files
+.vscode/
+.DS_Store
+Thumbs.db
